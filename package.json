@@ -1,0 +1,21 @@
+{
+  "name": "aula_01",
+  "version": "0.0.1",
+  "description": "Introdução a aula 01",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramguimaraes/aula_01.git"
+  },
+  "keywords": ["package json", "teste"],
+  "author": "Rafael Guimarães",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramguimaraes/aula_01/issues"
+  },
+  "homepage": "https://github.com/ramguimaraes/aula_01#readme"
+}
